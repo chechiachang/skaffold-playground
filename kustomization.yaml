@@ -1,0 +1,5 @@
+configMapGenerator:
+- name: my-configmap
+  literals:	
+  - foo=bar
+  - baz=qux
